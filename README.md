@@ -58,7 +58,7 @@ reboot
 
 **🟢梅林方法一：界面重置（推荐）**
 
-* 在**【系统管理 】–【系统设置】**内勾选：`Format JFFS partition at next boot` 和 `Enable JFFS custom scripts and configs` 然后点击`应用本页面设置`，然后点击顶部`重新启动`按钮重启路由器。此操作可以清除jffs分区中的所有数据，包括安装在jffs分区的软件中心和所有插件。
+* 在【系统管理 】–【系统设置】内勾选：`Format JFFS partition at next boot` 和 `Enable JFFS custom scripts and configs` 然后点击`应用本页面设置`，然后点击顶部`重新启动`按钮重启路由器。此操作可以清除jffs分区中的所有数据，包括安装在jffs分区的软件中心和所有插件。
 * 重启路由后，软件中心会自动重新完成初始安装，然后将路由器连上网络，进入软件中心将软件中心更新到最新即完成软件中心重置。
 
 **🟢梅林方法二：命令重置**
